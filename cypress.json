@@ -1,7 +1,0 @@
-{
-	"baseUrl": "https://practice.automationtesting.in",
-	"includeshadowDom": true,
-	"chromeWebSecurity": true,
-	"viewportHeight": 1300,
-	"viewportWidth": 1920
-}
